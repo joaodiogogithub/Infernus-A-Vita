@@ -1,5 +1,12 @@
-LOOK TO BEHIND
+Nome provisório: "LOOK TO BEHIND".
 
--A terror game base on old RPG game maker games.
+Genero: Terror, psicologico.
 
--Top View
+Estilo: Top-view
+
+Roteiro:
+
+Resumo:
+
+Mapas:
+
